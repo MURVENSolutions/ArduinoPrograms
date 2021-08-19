@@ -1,2 +1,2 @@
-# ArduinoPrograms
-Embedded Arduino Programs
+# Embedded-Arduino-code
+Embedded-Arduino-code
