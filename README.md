@@ -31,4 +31,12 @@ Pin Descritpion:
 
 ![image](https://user-images.githubusercontent.com/6793806/130011458-9d2a41f5-8c7d-45e8-94c1-8abab8150ead.png)
 
+Programming with Arduino using C language:
+https://www.halvorsen.blog/documents/technology/resources/resources/Arduino/Programming%20with%20Arduino.pdf
+
+Thinkercad Circuits:
+TinkerCAD is a free online service for creating basic 3D shapes and developing digital prototypes of electronic components. These prototypes include basic circuits with LED lights, buzzers, switches, and even light sensors. These prototypes can include a microprocessor as part of the design. Microprocessors are the simplest form of computer that can be programmed. They can be programmed to manipulate electronic components like LED lights and buzzers. Microprocessors can be programmed to gather information from sensors and interpret that information. They are used in a variety of devices all around us. They are in microwaves, refrigerators, cars, computers and many other electronic devices. The process used in TinkerCAD is often used for rapid prototyping. Prototyping is a process where we can develop components in a flexible manner than can be quickly updated and modified to test a variety of options when developing a project or product. We will use this process of prototyping to learn how to create basic electronic circuits. Go over to https://tinkercad.com and create a free account. Tinkercad also provides scratch programming, in which the user need not have to code but design the logic using interactive programming logic blocks.
+
+Refer: Electronic Circuit Basics with TinkerCAD 2 (http://www.energiazero.org/simulazioni/Intro%20thinkercad.pdf)
+
 
