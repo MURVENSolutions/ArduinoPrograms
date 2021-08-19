@@ -1,8 +1,10 @@
 Arduino/Genuino Uno is a microcontroller board based on the ATmega328P (datasheet link: https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf). It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button. The board is programmable with the Arduino IDE (Integrated Development Environment), via a type B USB cable. It can be powered by the USB cable or by an external 9-volt battery, though it accepts voltages between 7 and 20 volts.
 
 ![arduino-uno-ch340-500x500](https://user-images.githubusercontent.com/6793806/130011350-4715a559-399d-4a5a-be14-85b0333ebed2.jpg)
+![image](https://user-images.githubusercontent.com/6793806/130011554-06b7c719-770c-4e35-9da3-51167d4f5b28.png)
 
-Technical specifications
+
+Technical specifications:
 Microcontroller: Microchip ATmega328P
 Operating Voltage: 5 Volts
 Input Voltage: 7 to 20 Volts
